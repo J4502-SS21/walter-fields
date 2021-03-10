@@ -1,15 +1,15 @@
 body {
-  background:#041E42;
+  background:navy blue;
   text-align: center;
   color: #555;
   margin: 0;
   width: 100%;
   padding-bottom: 175px;
-  font-family: 'Source Serif Pro', serif;
+  font-family: 'Inter', sans-serif;
 }
 
 nav {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Inter', sans-serif;
   color: white;
   background: #BF0D3E;
   border-bottom: 3px solid white;
@@ -87,3 +87,4 @@ section{
   }
 
 }
+
