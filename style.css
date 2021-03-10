@@ -1,7 +1,7 @@
 body {
-  background:#555;
+  background:#041E42;
   text-align: center;
-  color: #041E42;
+  color: #555;
   margin: 0;
   width: 100%;
   padding-bottom: 175px;
@@ -72,7 +72,7 @@ img {
 section{
   font-family: 'Merriweather', serif;
   color: black;
-  background: yellow;
+  background: white;
   padding-top: 20px auto;
   padding-bottom: 20px auto;
   box-shadow: 1px 1px 25px black;
